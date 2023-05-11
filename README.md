@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil de Átila Gargione😁
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/gargioneatila">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gargioneatila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargioneatila&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -14,7 +14,6 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/atila_gargione" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
